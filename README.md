@@ -6,7 +6,6 @@
 
 ![Profile Views](https://hits.sh/github.com/Nishanth-0006.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)
 ![Followers](https://img.shields.io/github/followers/Nishanth-0006?style=for-the-badge&logo=github&color=36BCF7)
-
 ![Stars](https://img.shields.io/github/stars/Nishanth-0006?style=for-the-badge&logo=github&color=yellow)
 
 </div>
@@ -42,12 +41,64 @@ Graduate and aspiring **AI / ML engineer** from Bengaluru, India. I build machin
 
 ## 🚀 Featured Projects
 
-| Project | Highlights | Stack |
-|---|---|---|
-| 💧 **[AquaIntel Analytics](https://github.com/Nishanth-0006/AquaIntel-Analytics)** | Random Forest water-safety classifier (~93% accuracy), map-based risk dashboard, upload feature for district classification | Python, Streamlit, Scikit-learn, Plotly |
-| 📈 **[Small Business Revenue Forecaster](https://github.com/Nishanth-0006/Small-Business-Revenue-Forecaster)** | Regression on 7,000 rows, R² improved from ~0.59 to ~0.79 (MAE 0.78, RMSE 0.99), interactive prediction app | Python, Scikit-learn, Streamlit, Seaborn |
-| 🛒 **BuySense** | Sentiment analysis and review summaries powered by Gemini via Genkit | TypeScript, Next.js, React, Tailwind |
-| 🌾 **SmartCrop AI** | AI-powered web platform for smarter farming using Google Gemini | TypeScript, Python, Next.js, Gemini |
+### 💧 [AquaIntel Analytics](https://github.com/Nishanth-0006/AquaIntel-Analytics)
+**Water Quality Intelligence Dashboard**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+- Handled data preprocessing, model development, and documentation in a team project on water quality risk analysis
+- Trained a Random Forest classifier to predict water safety (Safe / Unsafe) with ~93% accuracy
+- Contributed to a Streamlit dashboard with map-based risk visualization and an upload feature that classifies districts as Safe, Moderate, or Unsafe from pH, conductivity, and nitrate levels
+
+---
+
+### 📈 [Small Business Revenue Forecaster (SDG 8)](https://github.com/Nishanth-0006/Small-Business-Revenue-Forecaster)
+**Revenue prediction for micro enterprises**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- Built regression models (Linear Regression, SGD Regressor) to predict annual revenue of micro enterprises from a 7,000-row Kaggle dataset
+- Cleaned data (duplicate removal, missing values, IQR outlier removal), engineered interaction and polynomial features, and applied StandardScaler fitted on training data only, with 5-fold cross-validation
+- Added 300 synthetic rows, improving R² from ~0.59 to ~0.79 (MAE 0.78, RMSE 0.99)
+- Built an interactive Streamlit app for revenue prediction and feature-impact visualization
+
+---
+
+### 🛒 BuySense
+**Product Review Sentiment Analysis**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+- Built a component-driven, responsive web application with Next.js, React, and Tailwind CSS
+- Integrated Genkit with Google Gemini models for automated sentiment analysis and review summaries
+
+---
+
+### 🌾 SmartCrop AI
+**AI-Powered Tools for Smarter Farming**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+- Built an AI-powered web platform using Google Gemini to support smarter farming decisions
+
+---
 
 ## 📊 GitHub Stats
 
@@ -64,10 +115,9 @@ Graduate and aspiring **AI / ML engineer** from Bengaluru, India. I build machin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanth-0006&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
-
 
 ## 🐍 Contribution Snake
 
