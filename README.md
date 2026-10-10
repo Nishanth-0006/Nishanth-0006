@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Nishanth+%F0%9F%91%8B;Building+ML+models+that+become+real+apps;Python+%7C+Machine+Learning+%7C+Streamlit;Next.js+%7C+TypeScript+%7C+Gemini+AI)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nishanth-0006&label=Profile+Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/Nishanth-0006.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)
 ![Followers](https://img.shields.io/github/followers/Nishanth-0006?style=for-the-badge&logo=github&color=36BCF7)
+
 ![Stars](https://img.shields.io/github/stars/Nishanth-0006?style=for-the-badge&logo=github&color=yellow)
 
 </div>
